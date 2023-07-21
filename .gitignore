@@ -78,3 +78,6 @@ crashlytics-build.properties
 !/FirebaseProject/public/index.html
 
 /[Pp]romo
+
+/BuildVK
+/BuildYandex
