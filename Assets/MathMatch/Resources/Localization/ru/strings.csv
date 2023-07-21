@@ -1,0 +1,11 @@
+id,ru,,
+lbl_loading,Загрузка,,
+lbl_best_score,Лучший,,
+lbl_tap,Клик,,
+lbl_doubletap,Двойной клик,,
+lbl_go_mismatch,Мимо,,
+lbl_go_doubledigit,Много,,
+lbl_go_subzero,Ниже нуля,,
+lbl_go_notime,Не успел,,
+lbl_hint,"Прыгай по необходимым платформам, чтобы циферка стала равной отображаемой на следующем кубе!
+Удачи!",,
