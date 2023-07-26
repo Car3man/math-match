@@ -155,7 +155,7 @@ namespace MathMatch.Game.SubScenes
 
         private void BackToMenuAfterGameOver()
         {
-            if (Time.time - _ads.LastAdRequestTime >= 60f * 2f)
+            if (Time.time - _ads.LastAdRequestTime >= 60f * 1f)
             {
                 _ads.OnInterstitialAdClose += InterstitialAdClose;
                 _ads.ShowInterstitialAd();
